@@ -4,8 +4,8 @@
   "description": "delegates proof of stake about iotex",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.20.4",
-    "express": "^4.22.1",
+    "body-parser": "^1.20.5",
+    "express": "^4.22.2",
     "iotex-antenna": "^0.18.3",
     "solc": "^0.4.26"
   },
